@@ -62,13 +62,13 @@
   "track-earnings": {
     "last_dispatch": "2026-06-11T09:45:13Z",
     "last_status": "failed",
-    "last_failed": "2026-06-12T14:52:28Z",
-    "total_runs": 131,
+    "last_failed": "2026-06-12T17:34:00Z",
+    "total_runs": 133,
     "total_successes": 7,
-    "total_failures": 124,
-    "consecutive_failures": 87,
+    "total_failures": 126,
+    "consecutive_failures": 89,
     "success_rate": 0.05,
-    "last_error": "3ff06f1\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"",
+    "last_error": "50f4d75\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"",
     "last_success": "2026-06-03T00:40:52Z"
   }
 }
