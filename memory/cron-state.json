@@ -12,14 +12,14 @@
     "last_dispatch": "2026-06-17T16:55:14Z"
   },
   "lp-monitor": {
-    "last_status": "dispatched",
-    "last_failed": "2026-06-17T13:55:43Z",
-    "total_runs": 320,
+    "last_status": "failed",
+    "last_failed": "2026-06-17T16:55:51Z",
+    "total_runs": 321,
     "total_successes": 68,
-    "total_failures": 252,
-    "consecutive_failures": 145,
+    "total_failures": 253,
+    "consecutive_failures": 146,
     "success_rate": 0.21,
-    "last_error": "ccd0c3e\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"",
+    "last_error": "40cc7b1\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"",
     "last_dispatch": "2026-06-17T16:55:14Z",
     "last_success": "2026-06-02T23:08:15Z"
   },
