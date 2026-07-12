@@ -37,15 +37,15 @@
   },
   "on-chain-monitor": {
     "last_dispatch": "2026-07-12T17:38:00Z",
-    "last_status": "dispatched",
+    "last_status": "failed",
     "last_success": "2026-06-02T08:55:55Z",
-    "total_runs": 503,
+    "total_runs": 504,
     "total_successes": 9,
-    "total_failures": 494,
-    "consecutive_failures": 465,
+    "total_failures": 495,
+    "consecutive_failures": 466,
     "success_rate": 0.02,
-    "last_failed": "2026-07-12T16:31:27Z",
-    "last_error": "a3ca292\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
+    "last_failed": "2026-07-12T17:38:30Z",
+    "last_error": "909820b\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
   },
   "claim-diem": {
     "last_dispatch": "2026-07-12T17:38:00Z",
