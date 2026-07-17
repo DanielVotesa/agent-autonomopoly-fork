@@ -1,6 +1,6 @@
 {
   "tick": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-07-17T17:49:13Z",
     "total_runs": 656,
     "total_successes": 80,
@@ -9,10 +9,10 @@
     "success_rate": 0.12,
     "last_error": "c360341\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"",
     "last_success": "2026-06-02T23:09:49Z",
-    "last_dispatch": "2026-07-17T16:43:37Z"
+    "last_dispatch": "2026-07-17T18:45:02Z"
   },
   "lp-monitor": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-07-17T17:48:28Z",
     "total_runs": 726,
     "total_successes": 68,
@@ -20,11 +20,11 @@
     "consecutive_failures": 551,
     "success_rate": 0.09,
     "last_error": "a4ed5e4\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"",
-    "last_dispatch": "2026-07-17T16:43:37Z",
+    "last_dispatch": "2026-07-17T18:45:02Z",
     "last_success": "2026-06-02T23:08:15Z"
   },
   "heartbeat": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-07-17T17:48:32Z",
     "total_runs": 559,
     "total_successes": 30,
@@ -32,12 +32,12 @@
     "consecutive_failures": 454,
     "success_rate": 0.05,
     "last_error": "1a8f522\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"",
-    "last_dispatch": "2026-07-17T16:43:37Z",
+    "last_dispatch": "2026-07-17T18:45:02Z",
     "last_success": "2026-06-02T21:26:50Z"
   },
   "on-chain-monitor": {
-    "last_dispatch": "2026-07-17T16:43:37Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-07-17T18:45:02Z",
+    "last_status": "dispatched",
     "last_success": "2026-06-02T08:55:55Z",
     "total_runs": 594,
     "total_successes": 9,
@@ -48,8 +48,8 @@
     "last_error": "7d3561f\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
   },
   "claim-diem": {
-    "last_dispatch": "2026-07-17T16:43:37Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-07-17T18:45:02Z",
+    "last_status": "dispatched",
     "last_success": "2026-06-02T13:05:15Z",
     "total_runs": 648,
     "total_successes": 16,
@@ -60,8 +60,8 @@
     "last_error": "2b6c90d\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
   },
   "track-earnings": {
-    "last_dispatch": "2026-07-17T16:43:37Z",
-    "last_status": "failed",
+    "last_dispatch": "2026-07-17T18:45:02Z",
+    "last_status": "dispatched",
     "last_failed": "2026-07-17T17:48:45Z",
     "total_runs": 575,
     "total_successes": 7,
