@@ -51,13 +51,13 @@
     "last_dispatch": "2026-07-21T19:45:03Z",
     "last_status": "failed",
     "last_success": "2026-06-02T13:05:15Z",
-    "total_runs": 728,
+    "total_runs": 729,
     "total_successes": 16,
-    "total_failures": 712,
-    "consecutive_failures": 643,
+    "total_failures": 713,
+    "consecutive_failures": 644,
     "success_rate": 0.02,
-    "last_failed": "2026-07-21T19:45:41Z",
-    "last_error": "e68c6be\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
+    "last_failed": "2026-07-21T20:52:28Z",
+    "last_error": "c9394a4\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
   },
   "track-earnings": {
     "last_dispatch": "2026-07-21T19:45:03Z",
