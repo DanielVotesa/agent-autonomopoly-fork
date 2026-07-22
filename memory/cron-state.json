@@ -37,15 +37,15 @@
   },
   "on-chain-monitor": {
     "last_dispatch": "2026-07-22T22:28:51Z",
-    "last_status": "dispatched",
+    "last_status": "failed",
     "last_success": "2026-06-02T08:55:55Z",
-    "total_runs": 691,
+    "total_runs": 692,
     "total_successes": 9,
-    "total_failures": 682,
-    "consecutive_failures": 653,
+    "total_failures": 683,
+    "consecutive_failures": 654,
     "success_rate": 0.01,
-    "last_failed": "2026-07-22T21:18:46Z",
-    "last_error": "501f135\",\"total_cost_usd\":0,\"usage\":{\"input_tokens\":0,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":0,\"output_tokens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\""
+    "last_failed": "2026-07-22T22:29:24Z",
+    "last_error": "okens\":0,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\","
   },
   "claim-diem": {
     "last_dispatch": "2026-07-22T22:28:51Z",
