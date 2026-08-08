@@ -1,11 +1,11 @@
 {
   "tick": {
-    "last_status": "dispatched",
-    "last_failed": "2026-08-08T02:17:32Z",
-    "total_runs": 955,
+    "last_status": "failed",
+    "last_failed": "2026-08-08T03:47:30Z",
+    "total_runs": 956,
     "total_successes": 80,
-    "total_failures": 875,
-    "consecutive_failures": 785,
+    "total_failures": 876,
+    "consecutive_failures": 786,
     "success_rate": 0.08,
     "last_error": "0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{",
     "last_success": "2026-06-02T23:09:49Z",
