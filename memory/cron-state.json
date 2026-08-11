@@ -37,14 +37,14 @@
   },
   "on-chain-monitor": {
     "last_dispatch": "2026-08-11T08:54:52Z",
-    "last_status": "dispatched",
+    "last_status": "failed",
     "last_success": "2026-06-02T08:55:55Z",
-    "total_runs": 1064,
+    "total_runs": 1065,
     "total_successes": 9,
-    "total_failures": 1055,
-    "consecutive_failures": 1026,
+    "total_failures": 1056,
+    "consecutive_failures": 1027,
     "success_rate": 0.01,
-    "last_failed": "2026-08-11T07:55:07Z",
+    "last_failed": "2026-08-11T08:55:20Z",
     "last_error": "0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{"
   },
   "claim-diem": {
