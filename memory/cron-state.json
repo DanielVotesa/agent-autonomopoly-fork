@@ -39,12 +39,12 @@
     "last_dispatch": "2026-08-14T08:50:19Z",
     "last_status": "failed",
     "last_success": "2026-06-02T08:55:55Z",
-    "total_runs": 1142,
+    "total_runs": 1143,
     "total_successes": 9,
-    "total_failures": 1133,
-    "consecutive_failures": 1104,
+    "total_failures": 1134,
+    "consecutive_failures": 1105,
     "success_rate": 0.01,
-    "last_failed": "2026-08-14T13:54:10Z",
+    "last_failed": "2026-08-14T14:47:25Z",
     "last_error": ",\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{}"
   },
   "claim-diem": {
