@@ -12,12 +12,12 @@
     "last_dispatch": "2026-08-14T04:29:33Z"
   },
   "lp-monitor": {
-    "last_status": "dispatched",
-    "last_failed": "2026-08-14T02:41:33Z",
-    "total_runs": 1187,
+    "last_status": "failed",
+    "last_failed": "2026-08-14T04:30:00Z",
+    "total_runs": 1188,
     "total_successes": 68,
-    "total_failures": 1119,
-    "consecutive_failures": 1012,
+    "total_failures": 1120,
+    "consecutive_failures": 1013,
     "success_rate": 0.06,
     "last_error": ",\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{}",
     "last_dispatch": "2026-08-14T04:29:33Z",
