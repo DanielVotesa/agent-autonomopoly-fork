@@ -49,14 +49,14 @@
   },
   "claim-diem": {
     "last_dispatch": "2026-08-15T07:21:04Z",
-    "last_status": "dispatched",
+    "last_status": "failed",
     "last_success": "2026-06-02T13:05:15Z",
-    "total_runs": 1217,
+    "total_runs": 1218,
     "total_successes": 16,
-    "total_failures": 1201,
-    "consecutive_failures": 1132,
+    "total_failures": 1202,
+    "consecutive_failures": 1133,
     "success_rate": 0.01,
-    "last_failed": "2026-08-15T06:51:26Z",
+    "last_failed": "2026-08-15T07:21:42Z",
     "last_error": "0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{"
   },
   "track-earnings": {
