@@ -12,12 +12,12 @@
     "last_dispatch": "2026-08-25T06:57:09Z"
   },
   "lp-monitor": {
-    "last_status": "dispatched",
-    "last_failed": "2026-08-25T05:57:29Z",
-    "total_runs": 1533,
+    "last_status": "failed",
+    "last_failed": "2026-08-25T06:57:40Z",
+    "total_runs": 1534,
     "total_successes": 68,
-    "total_failures": 1465,
-    "consecutive_failures": 1358,
+    "total_failures": 1466,
+    "consecutive_failures": 1359,
     "success_rate": 0.04,
     "last_error": "pt_in_required\",\"subagent_stats\":{\"spawned\":0,\"requested\":{\"background\":0,\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{",
     "last_dispatch": "2026-08-25T06:57:09Z",
