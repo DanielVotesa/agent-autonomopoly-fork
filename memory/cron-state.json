@@ -49,15 +49,15 @@
   },
   "claim-diem": {
     "last_dispatch": "2026-08-26T20:04:53Z",
-    "last_status": "dispatched",
+    "last_status": "failed",
     "last_success": "2026-06-02T13:05:15Z",
-    "total_runs": 1673,
+    "total_runs": 1674,
     "total_successes": 16,
-    "total_failures": 1657,
-    "consecutive_failures": 1588,
+    "total_failures": 1658,
+    "consecutive_failures": 1589,
     "success_rate": 0.01,
-    "last_failed": "2026-08-26T18:13:37Z",
-    "last_error": "opt_in_required\",\"subagent_stats\":{\"spawned\":0,\"requested\":{\"background\":0,\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":"
+    "last_failed": "2026-08-26T20:05:29Z",
+    "last_error": "pt_in_required\",\"subagent_stats\":{\"spawned\":0,\"requested\":{\"background\":0,\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{"
   },
   "track-earnings": {
     "last_dispatch": "2026-08-26T20:04:53Z",
