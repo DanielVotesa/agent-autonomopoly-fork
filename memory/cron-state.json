@@ -62,13 +62,13 @@
   "track-earnings": {
     "last_dispatch": "2026-10-01T16:34:26Z",
     "last_status": "failed",
-    "last_failed": "2026-10-02T06:48:26Z",
-    "total_runs": 1768,
+    "last_failed": "2026-10-02T13:15:34Z",
+    "total_runs": 1769,
     "total_successes": 7,
-    "total_failures": 1761,
-    "consecutive_failures": 1724,
+    "total_failures": 1762,
+    "consecutive_failures": 1725,
     "success_rate": 0,
-    "last_error": "\"requested\":{\"background\":0,\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{\"parent\":0,\"user\":0,\"system\":0},\"refused\":{\"de",
+    "last_error": "requested\":{\"background\":0,\"foreground\":0,\"unset\":0},\"started_in_background\":0,\"max_depth\":0,\"spawned_by_subagents\":0,\"completed\":0,\"failed\":0,\"killed\":{\"parent\":0,\"user\":0,\"system\":0},\"refused\":{\"dep",
     "last_success": "2026-06-03T00:40:52Z"
   }
 }
